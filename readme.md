@@ -13,7 +13,7 @@
 
 ## Moving into specific directory
 
-    cd 'microservice to display all trains' or 'number management http service'
+    cd microservice_to_display_all_trains or number_management_http_service
 
 ## Running the server
 
@@ -32,7 +32,7 @@
 
 ### Response
 
-![Response Image](./microservice%20to%20display%20all%20trains/library/response.png)
+![Response Image](./microservice_to_display_all_trains/library/response.png)
 
 
 # Second Question
@@ -47,4 +47,4 @@
 
 ### Response Image
 
-![Response Image](./number%20management%20http%20service/library/response.png)
+![Response Image](./number_management_http_service/library/response.png)
